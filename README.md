@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JanSeemann92
+- 👋 Hi, I’m Jan Seemann
 - 👀 I’m interested in geoinformatics
 - 🌱 I’m currently learning Java, JavaScript, NodeJS, SQL
 
