@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Jan Seemann
-- 👀 I’m interested in geoinformatics
+- 👨‍🎓 I’m studying geoinformatics
+- 🖥 I'm currently working as IT admin in a small software company.
 
 
 <!---
