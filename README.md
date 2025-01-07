@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jan Seemann
-- 👨‍🎓 I’m studying geoinformatics
+- 👨‍🎓 I studied geoinformatics and biology. I hold a bachelor's degree in both disciplines.
 - 🖥 I'm currently working as IT admin in a small software company.
 
 
